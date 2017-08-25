@@ -244,7 +244,12 @@ if len(sys.argv) >= 2:
             text_lines = [i for i in f.read().split('\n') if i != '']
             #print(text_lines)
             f.close()
-            print(filename)
+            print('****************************')
+            print('******** NEW RESUME ********')
+            print('****************************')
+            print('\n')
+            print('FILENAME = ' + filename)
+            print('\n')
             for i in range(len(preds)):
                 if ('c' in preds[i]) and ('d' in preds[i]):
                     print(text_lines[i] + ' | ' + ' '.join(preds[i]))
