@@ -1,0 +1,343 @@
+EDUCATION
+
+Jiang (Julia) Tian
+jiang.julia.tian.1986@gmail.com  (412) 799-4284
+
+Cornell University, College of Arts and Sciences, Ithaca,NY
+
+Bachelor of Arts in Biology and Economics, May 2008
+
+ GPA: 3.4
+
+ Dean's List: Fall 2004, Spring 2005, Fall 2005
+
+ Nominee of 2007 Outstanding Achievement Award, Cornell University Undergraduate Scholars
+
+ SAT I Verbal: 730; SAT I Math: 740; SAT II Writing: 750; SAT II Biology: 770; SAT II Math 2C: 790
+
+_____________________________________________________________________________________________
+
+WORK EXPERIENCE
+
+Antenna Matrix, Columbus, OH
+
+Special Initiatives, Antenna Matrix
+
+[May 2010­July 2017]
+
+ Launched high tech venture in the field of antenna measurement.
+
+ On-boarded clients from COMSATS Institute of Information Technology in Pakistan and a small
+
+educational manufacturing company in India.
+
+ Engaged in late stage acquisition negotiations with Sichuan Boxing Shiye Youxian Gongsi, a chemical
+
+company in China, looking to diversify.
+
+ Setup hardware manufacturing operations with Chengdu Jiangxue Medical Appliance Equipment
+
+Manufacture Co. in China.
+
+ Managed product development into larger markets of radar and sensor technologies.
+
+Capital One Financial, Richmond, VA
+
+[February 2009­May 2010]
+
+Business Analyst, US Card (in Analyst Development Program)
+
+ Led two internal consulting projects in U.S. card strategy: streamlining collections call center
+
+operations and mitigating credit risk within our collections portfolio.
+
+ Used Bayesian approach to model and analyze call center arrival data by using a Poisson distribution:
+
+covariate and time effects on call volume intensity are taken into account thus allowing assessment of
+
+different advertising strategies along with predicting arrival patterns leading to more optimized staffing
+
+and marketing strategies
+
+ Developed suite of new products to target collections customers in a risk based strategy using
+
+predictive analytics to model customer behavior. Segmented customers based on risk profile and then
+
+customized strategies for each group. Used statistical tools namely the creation of scorecards to
+
+forecast new account behavior leading to the generation of a simple risk matrix. The matrix was then
+
+overlaid with an individualized debt management strategy. Each strategy was monitored to facilitate
+
+fast and regular strategy changes leading to product generation.
+
+ Heavily involved in predictive analysis in using data, statistical algorithms and machine learning
+
+techniques to identify the likelihood of future customer behavior based on historical data resulting in key strategy changes across the customer's lifecycle from acquisition to collections and across
+
+departments from fraud detection and security to marketing, operations and credit risk to cultivate
+
+competitive advantage during turbulent economic conditions and the need for competitive product
+
+differentiation.
+
+ Coordinated the statistical, data analytic, IT and operations teams to implement key strategies across
+
+entire collections portfolio and progress was reported periodically to President of U.S. Card as project
+
+was key part of corporate strategic initiative.
+
+CIGNA, International Expatriate Benefits, Wilmington, DE
+
+[June 2008­February 2009]
+
+Project Associate, Global Service Operations (in Service Leadership Program)
+
+ Managed implementation of health insurance policies for key Fortune 500 clients.
+
+ Introduced six sigma methodology to all areas of operations in an effort to improve quality and reduce cost. Analyzed error trends, designed strategic action plans to reduce errors and implemented the plans with senior management. Built 30+ person unit responsible for all aspects of quality audit and improvement for claims, client services and contact center operations thus streamlining processes across operational segments fostering greater cohesion.
+ Built business-critical models to enhance business intelligence that offered unmatched capacity for forecasting, planning, budgeting, risk modeling, visual analytics and also allows you to develop "what if" scenarios and model the financial and operational impact of business decisions. Created interactive presentations, reports and dashboards for senior management. Partnered with IT to develop a web portal where everyone involved in business planning and decision making can access and interact with models online using real time data. In essence, transformed audit team into an internal consulting unit for global service operations that met with the head of each operational unit on a monthly basis to brainstorm long-
+
+term strategic vision and provide weekly feedback on tactical execution leading to increased
+
+interdepartmental communication and standardization of metrics.
+
+ Drove operational improvements with CIGNA's nascent joint venture with China Merchant Bank to bring insurance and health care to China's rising middle class and wealthy through innovative marketing and equipping call centers with innovative data mining techniques using proprietary software in predictive
+
+analysis of customer behavior to capitalize on a confluence of forces starting with the rise of private hospitals and clinics as a key pillar in Beijing's evolving efforts to provide healthcare to 1.3 billion Chinese thus shaping China into the fastest growing asset in CIGNA's international portfolio where revenues have tripled from $100 million in 2009 to $331 million in 2012 with a million policies sold as CIGNA enjoys a wide moat in the depth of its market penetration in China with the JV company being named China's Best
+
+Foreign Life Insurance Company.
+
+ Operational strategy improvements led to innovations in customer insight, acquisition, service excellence
+
+and transformational experiences resulting in CIGNA winning the 2009 Gartner One to One Customer
+
+Experience Excellence Award.
+
+___________________________________________________________________________________________
+
+PE/VC/M&A EXPERIENCE
+
+Primerock Capital, Pittsburgh, PA
+
+[December 2013­May 2014]
+
+Managing Director, Velocity Street Ventures
+
+ Built $100 million VC arm of a PE firm with the GP, LP and founder.
+
+ Sourced deals from business plan competitions at Carnegie Mellon and various syndicates to streamline
+
+deal pipeline and develop a more robust investment thesis leading to a more diversified portfolio of early
+
+and late stage companies across sectors to harvest optionality.
+
+ Managed and developed two direct reports and various interns.
+
+ Monitored portfolio company progress by guiding numerous C-suite executives through key strategy
+
+changes in the VC portfolio of companies from internet-based residential real estate site to clinical research
+
+services to the manufacturing of high quality wheels to crowdfunding to social media and marketing to
+
+electronic circuit manufacturing.
+
+ Spun-off Rental Markets, our internet-based residential real estate site with IP assets, after the consolidation
+
+of several smaller startups in our portfolio to serial entrepreneur Jerry Salvonia, former senior executive of
+
+Rent.com and founder of Campus Explorer. Assembled team and raised $3 million in Series A funding for
+
+Nestigator to further develop new online real estate market place.
+
+ Revitalized IndiPharm, our clinical development organization providing clinical trial services for
+
+biotechnology and pharmaceutical companies, by actively spearheading strategy changes with senior
+
+management to build a presence in ASEAN. Restructured by spinning off pharmacovigilance unit to focus
+
+on core business of clinical research services. Brokered deal with Malaysian Biotechnology Corporation,
+
+under the purview of the Ministry of Science, Technology and Innovation, to obtain grant and fiscal
+
+incentives from the Malaysian government thereby relocating Asian headquarters from India to Malaysia
+
+with Indipharm being awarded BioNexus status with financial incentives as well as increased access to
+
+clients and markets. This concerted effort is in line with the government's Economic Transformation
+
+Programme, which aims to create a supportive ecosystem to grow clinical research in Malaysia. Met with
+
+Dr. Abu Bakar bin Suleiman, chairman of IHH Healthcare Berhad and president of International Medical
+
+University (IMU), to develop a medical program to train clinical research professionals using IndiPharm's
+
+methodology to then be used at IHH, the only true pan-Asian private healthcare outfit, thus setting the stage
+
+for massive expansion plans for the site management organization resulting in IMU's Institute of Research,
+
+Development and Innovation being placed in charge of this training programme with IndiPharm. Attended
+
+JP Morgan Healthcare Conference to further promote company leading to a contract with Bioven to book
+
+their entire worldwide trial for the cancer study resulting in a $20 million deal. Presented at major
+
+healthcare conferences such as Pharma+Bio Asia in Malaysia and Develop Innovate Advance (DIA) Asia
+
+Drug Conference in Japan to further promote the company leading to $1.06 million of additional venture
+
+funding for a total of $4.85 million in three rounds of equity funding. Poised company for an IPO.
+
+ Oversaw M&A process of acquiring ARBCO Wheels into our portfolio from due diligence to working with
+
+the legal team to ensure the efficient follow through of all action items necessary for transaction.
+
+ Stepped in as temporary CEO for Raising Social, our crowd funding site, and met with previous team to
+
+ensure a smooth transition of processes and helped bring on new clients including Pressley Ridge and
+
+Malibu High School.
+
+ Guided CEO of Matchstick Social, our social media and marketing site, in acquiring more clients and built
+
+new model to analyze financial and operating data including sales and customer metrics to improve firm
+
+performance.
+
+ Guided CEO of TMG, our electronic circuit manufacturer, to double revenue in 2014 by negotiating a deal
+
+with Caterpillar.
+
+ Researched industry, competition and customers for all companies within portfolio to design more robust
+
+strategies for senior management.
+
+ Built acquisition and financial models and pitch books for all relevant companies within portfolio.
+
+ Began building relationships with Carnegie Mellon University (CMU) and University of Pittsburgh by
+
+opening an office in college town to spawn an incubator to source investment opportunities resulting in the
+
+launch of a cyber security start up with recent CMU graduate.
+
+Insight Global, Hilliard, OH
+
+[July 2013­September 2013]
+
+Analyst, Verizon
+
+ Monitored post acquisition integration.
+
+ Developed business cases to streamline and simplify processes by eliminating manual work and drive
+
+efficiencies using continuous root cause investigation.
+
+B&J International, Denver, CO
+
+[October 2012­January 2013]
+
+Analyst, Promontory Financial Group
+
+ Reviewed the foreclosure process to determine if eligible home owners suffered financial injury in the
+
+aftermath of the financial crisis of 2008. Independent Foreclosure Review resulted in a more than $10
+
+billion settlement between 14 major mortgage lenders including Bank of America, Chase, Citi and
+
+Goldman Sachs and federal regulators such as the OCC on January 2013 involving 4.2 million
+
+borrowers.
+
+___________________________________________________________________________________________
+
+NON-PROFIT ENTREPRENEURIAL LEADERSHIP EXPERIENCE
+
+Founding Board Member, Global Health Minor Advisory Board
+
+[August 2007­May 2008]
+
+ Advised Cornell faculty on the development and implementation of a global health minor program for undergraduates using a million dollar NIH grant with multi-million dollars in follow on funding
+from the Gates Foundation after the huge success of the pilot program.  Collaborated with faculty on design of core curriculum, summer internships and year-long research
+exchange programs with University of Dar es Salaam, Weill Cornell Medical College, Weill Bugando, Cornell's Committee on US and Latin American Relations, Asesoria Nutricional para el Desarrollo Armonico, la Universidad Autonoma de Santo Domingo, Swami Vivekananda Youth Movement, Vivekananda Institute of Indian Studies, Kilimanjaro Christian Medical University College, Southern African Institute for Policy and Research, University of Zambia School of Medicine Teaching Hospital, University of Zambia's School of Medicine, Zambia Community Education Initiative, Mother Teresa's Orphanage, Cornell's School of Industrial and Labor Relations resulting in two core courses, five electives and four summer field experiences in the Dominican Republic, India, Tanzania and Zambia.  Inspired enhanced student engagement through sponsoring an annual global health case competition at Emory University inviting students from around the world to attend, experiential learning symposium featuring presentations from student's field experiences with the Dean of Human Ecology and former President Elizabeth Garrett in attendance, alumni network conference in various cities and visiting faculty and scholars.  Designed to provide Cornell students from any academic program with the opportunity to explore
+global health through their own disciplinary lens and also through the diverse disciplinary perspectives related to global health including public health, business and public policy.  Encouraged students to use core classroom learning as a springboard to engage in unique field
+experiences that creatively address a real world global health challenge.
+
+ Marketed program to students increasing enrollment to 25 students in the pilot program within the
+
+second semester of launch and the program has since graduated several hundred students.
+
+Founder and Executive Director, Cornell Health International
+
+[January 2006­May 2008]
+
+ Managed ten-member executive board and 500-member organization.
+
+ Developed and implemented student-led service projects in the U.S., Kenya, Costa Rica, Guatemala, Panama and Mozambique through both independent member-inspired projects and partnerships with local NGOs.
+ Supervised production of biannual print journal exploring global health issues.  Oversaw development and maintenance of active website with social networking capabilities using Ning
+that help students find peers with similar passions to engage in joint projects and network with local NGOs in developing countries.
+
+ Organized campus events including AIDS conference with former U.S. Ambassador to Uganda Jimmy
+
+Kolker and an artistically beautiful/emotionally moving award-winning photography exhibition of the work
+
+of a group of plastic surgeons who organized to perform cleft lip/palate surgeries of deformed children in
+
+impoverished areas of the world.
+
+ Guided finance in raising thousands of dollars each semester.
+
+ Garnered Dr. David Skorton's, former President of Cornell University, interest in building a $1.3 million
+
+endowment.
+
+ Inspired through example the launch of various niche global health organizations on campus by
+
+highlighting the unique opportunity to take advantage of Warren Buffett's gift to the Gates' Foundation the
+
+summer of 2006.
+
+Founding President, Cornell Chapter of The Triple Helix, Inc.
+
+[August 2004­December 2006]
+
+ Managed executive board and TTH Chapter at Cornell.
+
+ Spearheaded huge marketing campaigns to promote the journal resulting in local and international press coverage on the front page of the Cornell Daily Sun and in the news section of Science Magazine.
+ Led expansion of TTH to 27 chapters worldwide involving over 1000 undergraduates in North America, Europe, Australia and Asia making it the world's largest completely student run non-profit 501c3 organization and publication.
+
+ Garnered corporate funding from Intel and Intuit.  Organized interdisciplinary conferences that brought together Nobel Laureates from the sciences and
+humanities to engage in enlightened conversation about the core values of the journal that sought to understand the intersection of science, society and law. _____________________________________________________________________________________________
+
+RESEARCH EXPERIENCE
+
+Dr. Michael C. Latham's Nutrition Lab, Research Associate & Independent Study
+
+[August 2006­May 2008]
+
+ Collaborated with Dr. Latham in a review of his work on nutrition and related problems in developing
+
+countries in partnership with the WHO, World Bank and UN.
+
+ Gained invaluable exposure to his philosophy of effecting global change through local projects and
+
+immense network of students and peers through high profile consulting projects at the White House, for
+
+various presidents of developing countries and through international agencies illustrating how
+
+entrepreneurial initiatives can be used to spark economic development in Africa, Asia and Latin America.
+
+Dr. Thomas A. Cleland's Computational Physiology Lab, Research Associate
+
+[August 2005­July 2006]
+
+ Multitasked in the administering of drug injections and the performance of behavior tests on mice.
+
+ Built computational models to study effects of Alzheimer's disease in mice and the neurological improvements seen resulting from various drug treatments given.
+
+ Presented paper at conference: "Olfactory enrichment and physostigmine decreases generalization between similar odorants in aged mice." N. Mandairon, K. W. Ko, V. Ponmudi, T. R. Segal, J. Tian, T. A. Cleland, Society for Neuroscience, Atlanta, GA, October, 2006.
+ Built translational bridge between basic research and clinical research in pharmaceutical drug development leading to enhanced therapies for over 5 million patients through cross-fertilization of basic university
+research and the applied R&D activities within the pharmaceutical industry. _____________________________________________________________________________________________
+SUMMER INTERNSHIP Case Western Reserve School of Medicine, Intern in SMEP Program, Cleveland, OH [May 2005­August 2005]
+ Completed public policy paper on stem cell research and took classes at medical school.  Shadowed surgeons at Cleveland Clinic and Rainbow Babies and Children's Hospital. _____________________________________________________________________________________________ LITERARY PUBLICATION "Diversity: The Embodiment of Paradise." The Fiction of Toni Morrison: Reading and Writing on Race, Culture and Identity. Urban, IL: National Council of Teachers in English, 2007. Ed. Jami Carlacio.
+
+

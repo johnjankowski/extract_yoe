@@ -1,0 +1,84 @@
+NIHARIKA DHAWAN
+Irvine, CA ­ 92612 | (949) 771 6657 | niharikd@uci.edu | www.linkedin.com/in/niharika-dhawan
+
+EDUCATION
+
+University of California, Irvine, CA Paul Merage School of Business and Henry Samueli School of Engineering Master of Science in Engineering Management (MSEM) (GPA 3.89/4.0)
+
+Jun 2017
+
+· Awarded the Graduate Fellowship Award 2016.
+
+· Vice President-Merage Healthcare Association & Operations Management Association.
+
+· Relevant Coursework: Financial Reporting, Data Analytics, Statistics, Marketing Management, Computer & Communication
+
+Network, Requirement Engineering, Entrepreneurship, Supply Chain Management, Nano-Imaging, Wireless Networks.
+
+SRM University, Chennai, India Bachelor of Technology in Electronics and Communication (GPA 3.5/4.0)
+
+May 2013
+
+EXPERIENCE
+
+Tata Consultancy Services Ltd. (TCS), India
+
+Jul 2013 ­ Jul 2016
+
+Analyst (Mar 2014- Jul 2016)
+
+Facilitated operational excellence for a TCS client by way of revenue management, invoice monitoring, billing, project resource
+
+management, contract management (Fixed Price and Time & Material), business/account plans, process enhancements, and
+
+relationship management generating $106M annually. Assisted delivery head in strategic planning to enhance business processes
+
+that improved profitability, streamline operations, and enhanced vendor relationship while reducing costs.
+
+· Managed client relationships ­ assessed client needs and communicating them to internal/technical teams, ensuring that discrepancies were resolved thereby achieving the collection target for the quarter which led to the reduction in Daily Sales Outstanding (DSO) from 145 days to 90 days.
+· Engaged in daily interactions with client and senior leadership to communicate issues, status and execute daily engagement activities such as Leakage, Revenue, Headcount, and Outstanding dashboards.
+· Developed PowerPoint presentations, which effectively summarized the weekly status and business plan. · Managed project budgets ­ tracked actuals vs planned revenue, tracked expenses and costs, collated invoice data, and analyzed
+the payment patterns of the client, saving 1%, which was offered as volume discount of $1.06M on the total bill value. · Brought innovative ideas to the team by introducing pre-checks and automating tasks, which helped in reducing the billing
+cycle from 33 days to 28 days and achieving accuracy with 100% completion rate of on-time billing from the count of 80%.
+
+· Utilized advanced MS Excel functions and automated reports (Macros) by using Excel VBA to demonstrate performance metrics in a simple manner.
+
+Assistant System Engineer (Jul 2013- Feb 2014) Involved in Oracle Hyperion Financial Management (HFM) project by working on tickets assigned. Performed daily activities of Development team and gained knowledge of all the teams. Created Macros using VBA to automate performance testing tasks.
+
+PROJECTS
+
+MagTek, Seal Beach, CA- MBA Consulting Project
+
+Jan 2017 ­ Mar 2017
+
+· Conducted an in-depth analysis of market and competitors (primary research) for two products: QwickPay - app to enable
+
+merchants to use their smartphones to accept card payments and QwickCode - solution that allows consumers to transfer funds
+
+using mobile phones and then allows the recipient of those funds to get cash from an ATM without using a card.
+
+· Delivered a business plan for QwickPay, with growth objectives of increasing the business.
+
+· Developed and built a viable, profitable partner ecosystem for QwickCode.
+
+· Performed robust SWOT and Porter's five forces analysis to identify the Key Performance Indicators (KPI's) and to facilitate
+
+meeting the directed growth objectives.
+
+Analysis of Stock Market, UC- Irvine- Data Analytics Project
+
+Jan 2017 ­ Mar 2017
+
+· Worked with MBA students to devise a trading strategy by capturing, visualizing, and analyzing stock market data from Yahoo
+
+finance by the means of Python coding.
+
+· Used different statistical models (moving average, regression) and machine learning concepts (cross-validation using K-fold
+
+technique), to determine the feasibility of the model.
+
+SKILLS
+
+Technical: Microsoft Office (Word, Excel & PowerPoint), SQL, Python (basics), C++, MINITAB, Tableau (basics), Knowledge of statistical models, User Stories, Use Cases, Gathering Business Requirements. Expertise: Data Analysis, Project Management, Operations Management, Agile Methodology, Client Interaction, Process Improvement, Communication, Presentation, Dashboards & Reports, Critical Thinker, Problem Solver, Team Player.
+
+

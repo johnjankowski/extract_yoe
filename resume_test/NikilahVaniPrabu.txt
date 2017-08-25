@@ -1,0 +1,32 @@
+1 Nikilah Vani Prabu San Francisco Bay Area CRM Technology Manager at Shutterfly Inc.
+------------------------------------------Summary
+* CRM Manager having experience planning, managing and executing marketing campaigns across various delivery channels - Email, Online, Telemarketing, Direct Mail * Extensive hands-on experience with automated campaign management applications * Experience in database analysis with Teradata and Oracle SQL and assessing the effectiveness of marketing campaigns * Experience with hiring, developing and managing direct reports * Highly motivated, collaborative and obsessed with achieving great results * Commitment to quality and extreme attention to detail * Excellent problem solving and creative solution building skills
+------------------------------------------Experience
+- CRM Technology Manager at Shutterfly Inc. 11/2015 - Present ‚¢ Lead customer engagement segmentation, communication strategy, planning, and optimization ‚¢ Manage CRM automation resources, assign and execute campaign execution projects to team members ‚¢ Manage all marketing campaign operational tasks ‚¢ Create marketing segmentation, target key potential prospects, and execute audience specific marketing campaigns across different channels. ‚¢ Execute descriptive and inquisitive analysis and drive insights using SQL or Tableau ‚¢ Implement testing methodologies (e.g. A/B and multivariate testing to improve conversion rates) ‚¢ Use APIs and web services.
+- CRM Associate Manager at Shutterfly Inc. 09/2014 - 11/2015 ‚¢ Manage, develop and execute large, multi-wave, multi-segment, multi-channel, multiple audience level marketing campaigns.
+‚¢ Responsible for audience segmentation, targeting and campaign deployment
+‚¢ Work directly with Marketing Strategy Team to understand their target audience, Project timelines, process and business value.
+‚¢ Conduct A/B and Multivariate Testing
+‚¢ Create Tableau reports for Marketing Strategy Team
+- Marketing Campaign Specialist at Cisco Systems 09/2012 - 09/2014 * Manage, develop and execute demand plans aligned with country/segment marketing and
+
+2 Corporate Marketing priorities that contribute to revenue growth and improved customer engagement.
+* Integral member of the GDC(Global Demand Center) execution team, developing and delivering marketing campaigns across various delivery channels.
+* Collaborate with key stakeholders ‚" Services, Revenue Marketing, Field Marketing, Unica Core team, fellow campaign and content specialists to implement automation for marketing campaigns and programs
+* Work with the GDC Demand Planning team to understand the GDC client base‚TM marketing requirements and efficiently build campaigns that meet those requirements.
+* Manage and execute multi-touch, always-on campaigns for all regions ‚" US, Canada, EMEAR, APJC and LATAM
+* Advise on best practices and train peers with regard to marketing automation capabilities, testing, and projected results
+- Database Marketing Analyst at PayPal 06/2011 - 08/2012 * Management and execution of Paypal Marketing and Transactional campaigns for the North America region
+* Migration of the existing marketing and transactional recurring campaigns (triggers) in Paypal to a new and dedicated data mart for marketing called the Operational Data Mart (ODM).
+- Marketing Campaign Operations Lead at Apple 05/2009 - 05/2011 * Worked as the marketing campaign operations lead in Apple's Customer's Database Marketing team
+* Analyzed and designed reports based on requirements on ad hoc basis using Business Objects
+* Provided support for the various HR applications used by Apple like Merlin, MyPage, etc which includes delivering robust end-to-end solutions and applying sound technical and fundamentals skills.
+* Regression testing of the enhancements made for Apple‚TMs HR applications such as Merlin Admin and Merlin Manager and providing quality assurance prior to User Acceptance Testing
+- Software Engineer at Infosys Technologies Ltd 10/2004 - 04/2006 Made enhancements in the commercial lending module of the Finacle version used by IDBI. The enhancements were breakup of interest and penalty into five components, calculation of weighted average rate, customer wise appropriation and other significant additions. This involved addition and modification of existing menu options. Was involved in all the stages of the product development - Requirements gathering, Coding, Review, Test planning, Testing and Debugging.
+
+3 ------------------------------------------Education
+Manonmaniam Sundaranar University Bachelor of Engineering, Computer Science, 2000 - 2004
+------------------------------------------LinkedIn
+https://www.linkedin.com/in/nikilah-vani-prabu-67623232
+
+

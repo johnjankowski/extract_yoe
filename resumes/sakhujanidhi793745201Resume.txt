@@ -1,0 +1,65 @@
+Nidhi Sakhuja
+450 Santa Barbara, Irvine, CA, 92606 Phone no: 631-464-6507; nidhisakhuja@gmail.com
+
+Summary
+Analytic professional with 9+ years' experience in Analytics functions including Risk and Regulatory LGD/EAD model development (CCAR/DFAST), Data Quality and Data Governance. Analytically inclined and currently in a client-facing experience for a major US financial bank. Ability to draw insights and relay in a digestible manner to non-analytic audiences.
+
+Employment History GENPACT, Manager
+
+(New York, US)
+
+July 2013- Till Date
+
+Client: Citibank, CCAR
+ Derived the data mappings, data transformations and domain analysis for Mortgage/ Unsecured product for CCAR model development and data quality.
+ Leveraged Hadoop for analysing Risk and Regulatory CCAR reports to identify critical anomalies in data for unsecured products.
+
+Client: Santander Holdings USA
+ Experience in Credit Risk, Loss Forecasting Model development for Commercial and Industrial portfolio.
+ Developed LGD and CCF/LEQ models for generating loss projections to meet the regulatory requirements associated with the Comprehensive Capital Analysis and Review (CCAR) and Dodd Frank Act Stress Test (DFAST) frameworks.
+ Stress Testing Analysis to identify & predict macro-economic variables affecting customer's probability to default (PD)
+
+Client: Citibank, Basel
+ Managed requirement analysis, development and execution of a regulatory data quality tool (Data Input Prescreening) for capturing outliers in Basel II data submission.
+ Developed and designed the logical framework for Basel II regulatory data quality reports including Population Stability Index (PSI) framework and outlier reports.
+ Managed requirements and execution of rule based testing to identify critical anomalies in monthly Basel data submission.
+ Developed Change Request Prioritization framework for identifying change requests which needs to be prioritized for development basis budget, development efforts and cost constraints.
+
+ACCENTURE, Analytic Consultant
+
+(India)
+
+September 2010- February 2013
+
+ Applied analytic skillset to a diverse portfolio of clients across various industries including sports, insurance, financial and healthcare
+
+ Created analytic frameworks for match-racing analysis for Royal Yachting Association, (the national governing body for water sports in the UK) leveraging Varclus, Fastclus and Logistic Regression to identify causal factors of wins
+
+o RYA's British sailing team won 5 awards in London Olympics 2012
+
+ Developed churn segmentation solutions and leveraged SAS clustering techniques to create custom profiles and extract relevant segments
+
+1
+
+ Worked on German healthcare management solutions for public and private payers. Developed patient profiles and developed logistic regression model to identify likelihood of hospitalization of patients in the next 12 months. The likelihood indicator will help the payer to educate the high-risk patient regarding proper medication and precautionary measures.
+
+GENPACT, Assistant Manager
+
+(India)
+
+July 2007- August 2010
+
+ Built a collections `Precycle', 2 due and higher due stages strategy for credit card portfolio for reducing delinquency rates.
+
+ Developed a collections hardship strategy for credit card portfolio. Involved in data preparation and segmentation using MBDT for current, 2 due and 4+ due stages. Generated `Champion-Challenger' for tracking the performance of the strategies.
+
+ Developed `Attrition & Retention' models using statistical tools like Model Builder for Predictive Analysis (MBPA), segmentation tools like MBDT and SAS. Involved in building collection scorecards for predicting the likelihood of voluntary attriting accounts.
+
+Education  Delhi University(India), Master of Science (Statistics)  Delhi University(India), Bachelor of Science (Hons) Statistics
+
+Technical Skills
+ SAS Certified Base Programmer for SAS 9  SAS EG  Microsoft Office  Segmentation, Predictive Analytics, Logistic Regression  Linear Regression  Model Builder for Decision Tree, Cluster Analysis-Varclus, Fastclus  Project Management  Quality Centre(QC)
+
+2
+
+

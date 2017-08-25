@@ -1,0 +1,105 @@
+Samhitha M
+(972)-989-7838 samhithareddie@gmail.com; www.linkedin.com/in/samhithareddie
+
+EDUCATION
+
+The University of Texas at Dallas
+
+May 2017
+
+M.S., Information Technology and Management
+
+GPA ­ 3.61
+
+Relevant Coursework: Statistics, Business Intelligence, Data Warehousing, Systems Analysis and Project Management, Data Management,
+
+Data Visualization, Object Oriented Programming, Agile Project Management, Operations Management
+
+Jawaharlal Nehru Technological University, India B.Tech., Instrumentation and Control Engineering
+
+May 2014 GPA ­ 3.65
+
+TECHNICAL SKILLS Analytical Tools:
+Languages:
+DBMS: Software & Other Tools
+
+SAP Business Objects, Tableau, Qlikview, Spotfire, MS Excel, SAS Enterprise Minor SQL, Java, R (Shiny R, ggplot), SAS/BASE, SAS/STAT, SAS/SQL
+MS SQL Server, Oracle 11g, IBM DB2 MS Office Suite
+
+WORK EXPERIENCE
+
+Transaction Risk Analyst
+
+Dec 2014 ­ June 2015
+
+Amazon.com, Inc. · Responsible for tracking fraud activity, which involves gathering and analyzing the data retrieved by tracking irregular patterns in customer's accounts.
+
+· Investigated and analyzed claims of abuse or fraud, while maintaining formal documentation of analysis, findings, and conclusions for internal and external records.
+
+· Worked with various cross functional teams such as department management, risk analytics, risk engineers, other company associates and third parties to accomplish goals.
+
+· Involved in development of high performance software systems and processes that identify and prevent fraudulent transactions
+
+across all Amazon platforms.
+
+Business Analyst
+
+June 2016 ­ Aug 2016
+
+Sigmatrix Software Solutions
+
+· Participated in requirement gathering meetings, understood client's requirements & documented it to business needs
+
+· Analyzed customer data using Regression, segmentation and classification techniques in R to find hidden Patterns in the consumer
+
+behavior
+
+· Utilized Tableau in analyzing and creating visualizations to identify trends and relationships between data and presented this through
+
+dashboards and stories
+
+· Maintained daily, weekly statistical reports in Microsoft Excel (pivots, graphs) on project status and progress for higher management
+
+Technical Instructor
+
+Sep 2016 ­ May 2017
+
+The University of Texas at Dallas- Computer Science Education and Research
+
+· Taught object oriented programming concepts, MIT Scratch and Alice to high school students in Dallas.
+
+· Created and developed mini projects using various GUIs to encourage under graduate students by conducting various coding workshops.
+· Organized weekly schedule, performance evaluation and involved in class management
+
+· Assisted the logistics team by helping instructors with equipment and guardians about the camp information
+
+ACADEMIC PROJECTS Business Intelligence and analytics · Measured the effects of concepts such `Favorite Longshot Bias' and `Dispersion effect' on tennis betting, market using modelling
+techniques such as regression, logit etc. Data Visualization- Show me the Money - Lahman's Baseball Database
+
+· Defined insights from Lahman's Baseball Database.
+
+· Performed exploratory analysis on the datasets using Tableau 9.2 and discovered various insights into what factors lead to player's
+higher salaries, identified positive co relation between player's height and their average salary and also between batter's height and performance. Data Visualization- Kaggle- Airbnb's New User Booking · Utilized Customers demographics and sessions data to predict the country to which the user will make their first booking.
+
+· Performed Data Analysis and munging using SAS, descriptive and diagnostic analysis on the data using Tableau and identified the best classifier.
+Data Management-Online Course Registration System
+
+· Designed a Database for UTD Course Registration System by creating Entity Relationship Diagram using MS Visio.
+
+· Used SQL queries for creating and updating tables/ fields, inserting values and retrieving necessary information from the system. · Implemented a real time working model of the online course registration system as an end to end application using MS Access.
+
+LEADERSHIP & STUDENT ORGANIZATIONS
+
+Officer, Intelligence Analytics Society(IAS) Club UT Dallas
+
+2015 ­ 2017
+
+Member, ASCEND Club
+
+2015 ­ 2017
+
+Youth for Better India
+
+2012 ­ 2013
+
+

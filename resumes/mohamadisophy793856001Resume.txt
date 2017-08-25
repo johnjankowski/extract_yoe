@@ -1,0 +1,21 @@
+Sophy Mohamadi
+3045 Capitola Road Santa Cruz, CA 95062 (714) 824-0095 smmirzamoh@gmail.com
+
+EDUCATION University of California, Santa Cruz Major: Cognitive Science Concentration: Linguistics Minor: Computer Science
+
+Related Coursework - Computer Systems/Assembly Language - Intermediate Programming - Logic Design - Data Structures - Abstract Data Types - Computer Architecture - Database Systems
+
+- Technical Writing - Computational Models - Learning and Memory - Perception - Psychology of Reading - Psychology of Language - Psychological Data Analysis
+
+WORK EXPERIENCE Instructional Assistant, Introduction to Psychology March 2015- June 2015 - Responsible for a discussion section outside of class time where students are taught the material through supplementary assignments and lectures. Made myself available outside of lecture and discussion for students who needed extra help.
+
+Student Advisor, Psychology Department O ce June 2014- March 2015 - Advised students on class choices and concerns regarding graduation eligibility. In addition to providing help with navigating resources on campus and within the major, also coordinated career panels with professionals on options for students after graduation.
+
+PROJECTS Matrix Calculator -Created a calculator for performing matrix operations using a linked list of objects. The program takes in an input file containing the matrixes sizes and values. The output file created contains all the operations of multiplying, adding, subtracting, transposing, counting the non-zero values and more.
+AWARDS AND HONORS - Dean's Honors List - National Honors Society
+
+SKILLS -Python -Java -C
+
+-HTML/CSS -Unix -LaTeX -SQL
+
+

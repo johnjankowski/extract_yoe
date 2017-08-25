@@ -1,0 +1,54 @@
+ISHIKA SINGH
+BUSINESS ANALYST (626) 342 8356 | singh.ishika3@gmail.com |
+Motivated Business Analyst with the technical expertise and business acumen necessary to translate Business requirements and objectives into scalable, highly resilient and successful system solutions.
+
+SKILLS EXPERIENCE
+
+Technical Skills
+ Excel, Word, PowerPoint, and Visio.  SQL, Tableau, SSRS, Excel.  Drupal, WordPress.  MS SharePoint, JIRA.  HTML, CSS, JavaScript, ASP.NET, Python, and JAVA.  Salesforce.com technologies.  Hadoop, Hive, Spark
+B u s i n e s s S k i l l s : SDLC, Agile Methodologies, requirement gathering, Data mapping, Workflow analysis, System functional design, Release planning, Detail Oriented, Business Workflow and Documentation.
+T e c h n i c a l B u s i n e s s A n a l y s t : ICF International (Irvine, CA)
+Feb,2017 ­ present
+·Responsible for running ad-hoc, weekly and Monthly Reports according to the Stakeholders request.
+·Generated Monthly financial Incentive invoices and updated Find a Retailer tool backend database using Excel Vba scripts for retailers like Home Depot, Best Buy and Sears.
+·Recommended improvements in implementing program changes supporting utility programs Southern California Edison and SoCal Gas, SoCal Ren.
+·Multitasked and Managed 5 different projects liasoning with cross functional teams at same time ensuring all the deadlines are met on time
+·Used Data analysis for reporting and preparing dashboards as per client needs using SSRS, Excel and Tableau.
+·Implemented user acceptance testing with a focus on documenting defects and executing test cases on web development changes.
+·Developed SharePoint Libraries and set up site according to the client requirements.
+·Recommended operational improvements based on tracking and analysis using SharePoint and JIRA.
+·Conducted 5 knowledge sharing sessions per monthly to capture "Lessons Learned" and streamline the product improvement process.
+·Developed the new workflow diagram for SoCal Ren using MS Visio also used SFDC to provide admin support to the Project.
+B u s i n e s s A n a l y s t I n t e r n : UTB United Technology Inc.(New York)
+Oct,2016 ­ Jan,2017
+·Responsible for Weekly Advance and Monthly Commission Payroll processing and reporting.
+·Authored stored procedures used in ad-hoc and subscription based SQL 2008 SSRS reports.
+·Designed and maintained SSRS reports used to analyze sales, compensation, and earnings data.
+·Designed and maintained Tableau 5.1 reports used to graphically analyze business data.
+·Provided assistance for data trends identification using Excel and other visualization tools
+
+B u s i n e s s A n a l y s t I n t e r n : People's Choice Apparel (Los Angeles, CA) Sept,2015 ­ Mar,2016
+·Involved in the configuration and development of the Ecommerce website in cross functional environment also worked as Liaison between stakeholders throughout all stages and phases of SDLC.
+·Involved in daily planning of work, meetings, tracking progress, reporting and scheduling project timelines and milestone using Microsoft Project.
+·Used SQL to manipulate queries to manage database of the website and maintained the dashboard using Tableau and MS Excel.
+·Performed and managed the entire digital marketing analysis and reporting of the website traffic using Google Analytics, Tableau, and SFDC.
+·Revamped marketing strategy, analyzed data precisely resulting in $150,000 of sales within 6 months.
+G r a d u a t e A s s i s t a n t : California State University (Los Angeles, CA) Jan,2015 ­ Sept,2015
+·Assisted the Dean of Information Systems to layout new business coursework by analyzing data using MS Excel and manipulating SQL queries.
+·Managed CSULA website using Drupal and assisted in amazon web service system deployment.
+A n a l y s t : Aricent Technologies Gurgaon (India) Jan,2014 ­ Sept,2014
+·Managed and resolved all the network and CISCO VOIP connection cases on salesforce.com CRM working with different stakeholders in cross functional environment.
+·Resolved 30 Priorities cases in given SLA and received high degree of customer satisfaction by providing support to customers and achieved several Bingos in Feedback.
+J r . B u s i n e s s A n a l y s t : Webs Jyoti (Gurgaon, INDIA) June,2013 ­ Jan,2014
+·Developed various KPI's, Reports, and Dashboards using Excel (VLOOKUP, Pivot tables, Macros) for business users to review.
+·Developed and maintained client relations which resulted in working with various stakeholders to determine project scope, feasibility, and risks.
+·Extracted Data using SQL Queries and delivered recommendation on the basis of statistical analysis using BI tool Tableau.
+
+EDUCATION
+
+Masters in Information Management (JULY 2016) California State University, Los Angeles, CA
+Bachelor of Technology in Information Technologies & Engineering (MAY 2013) Mody Institute of Technology & Science, Rajasthan, India
+
+References Available Upon Request
+
+

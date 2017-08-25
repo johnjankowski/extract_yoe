@@ -1,0 +1,31 @@
+Daniel P. Hathaway
+811 E 11th St #201, Austin, TX, 78702 hathaway.danny@gmail.com · (713) 874-4220
+Professional Experience
+
+Uber Technologies, Austin, TX Operations & Logistics Manager
+
+January 2017 - Present
+
+I work on a City Operations team at Uber and focus primarily on Driver Acquisition and Driver Engagement to ensure our drivers-partners are in a position to succeed and meet the ever-growing rider demand in our markets.
+
+I conduct ad hoc analyses with R and SQL to better understand trends in our business. I balance this analytical rigor with strong operational excellence, and I'm always looking to improve and streamline processes.
+
+Example projects include: Running driver incentives to balance supply and demand in Uber's dynamic marketplace, formulating competitive strategy for Uber's re-launch in Austin following a one-year absence, and using a machine learning model to track Twitter sentiment leading up to our re-entry into Austin
+
+Ernst & Young, Dallas, TX Consultant, Financial Services
+
+September 2014 - January 2016
+
+I worked within the Financial Services Organization of EY to provide global clients a variety of world-class services and improve performance in all areas of their business. I brought an analytical focus combined with superior interpersonal and communication skills to deliver transformational change and help clients solve some of their biggest problems.
+
+Education
+
+Texas Tech University, Rawls School of Business Bachelor of Business Administration, Finance
+ 99th Percentile, Bloomberg Aptitude Test  Presidential Merit Scholarship
+Skills
+
+Graduation Date: May 2014
+
+ MS Excel - advanced (macros, pivot tables)  Excellent written and verbal communication skills.  Proficiency with SQL, Hive, and R
+
+

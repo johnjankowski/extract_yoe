@@ -1,0 +1,119 @@
+PARTH DESAI
+754 The Alameda, #1303, San Jose, CA- 95126 pydesai@gmail.com, Phone: 408-650-2750
+
+OBJECTIVE: Seeking Full-time position in a company where I can utilize and enhance my skills in the field of Electrical
+Engineering.
+
+SKILLS:
+
+ Languages: C, C++, Python, Verilog, System Verilog, Assembly Language
+
+ Tools: Eclipse, Oscilloscope, PCB layout tools (Eagle), Kiel, Synopsys Design Vision, Synopsys VCS, Cadence Encounter, Xilinx ISE, Xilinx Vivado, Quartus II,ERP systems, Maximo, Github, HART, DCS, PLC, SCAD
+
+ Functional: Logic Synthesis, Timing Analysis, Block Level Verification using code coverage and Assertions, Test plan development, board level design and debug, I2C,I2S,SPI, JTAG, URAT,BLE and PCI-E (basics)
+
+RELATED COURSEWORK:
+
+ SOC design and verification, Advance Computer Architecture, ASIC CMOS design, FPGA DSP system design, Digital system design and synthesis, Digital signal processing, Semiconductor Devices
+
+RELEVANT EXPERIENCE:
+
+Post Silicon Validation intern at Toshiba America
+
+[September, 2015- December, 2015]
+
+ Firmware testing of TDM and I2S of a network SOC using Keil and oscilloscope, verification of 1722
+
+packets for 61883-6 and AAF audio packets.
+
+ Interrupt handling for error conditions and chip bring from the interrupt.
+
+ Integration of TDM module to PCIE driver and test it for various parameters as talker and listener
+
+according to the user input.
+
+Embedded Engineer Intern at Litmus Automation
+
+[July, 2015 ­ August, 2015]
+
+ Development of client library in C/C++ and python for embedded systems like Intel Edison, Arduino
+
+ Designed Wi-Fi based low power high performance embedded system for industrial automation.
+
+ Define strategies for embedded platform reuse and development processes with proper
+
+documentation
+
+Senior Engineer Projects at Jubilant Life Sciences
+
+[July-2011-July 2013]
+
+ Designed electronics maintenance schedules and calibrated instruments for achieving ISO standards.  Initiated, analyzed and designed new power redundancy architecture to achieve lower downtime.  Lead team of 20 and was felicitated by "Outstanding team" award resulting for increasing efficiency.  Worked in startup of new business manufacturing unit specializing in material processing, for
+
+international clients by implementing manufacturing execution system (MES) resulting increase in
+
+efficiency by 12-15%.
+
+ACADEMIC QUALIFICATION:
+
+ Masters of Science in Electrical Engineering, GPA: 3.62/4.00 San Jose State University, CA
+ Bachelor of Technology in Computer Science, GPA: 7.5/10.0 Nirma University, India
+RELEVANT PROJECTS:
+
+[December, 2015] [July, 2011]
+
+Hardware Implementation of Blowfish Algorithm
+
+[November 2015]
+
+ 64 bits real time data (temperature of Nexys 4 board) encryption with 256 bits keys at a rate of 100
+
+MHz and power consumption of 1.99 Watt. Verification of Algorithm using code coverage and assertion
+
+ Technologies: Verilog, System verilog, python, Xilinx Vivado, Xilinx ISE, Synopsys VCS and Design vision
+
+Bus Arbitrator Design
+
+[April 2015]
+
+ Developed an arbitrator scheme similar to AHB for multiple masters and slaves that runs at100 Mhz
+
+ Used constrained random testing and code coverage to test the functional and power verification.
+
+ Technologies: System Verilog, python, Synopsys Design vision, NC Verilog, Synopsys VCS.
+
+MIPS processor
+
+[April 2015]
+
+ Lead a team of 3 to design a MIPS32 5-stage pipelined processor (with hazard detection and data
+
+forwarding), with 4KB 2-way associative instruction cache, write-through, no-write allocate data cache
+
+Feature point extraction of an image
+
+[November 2014]
+
+ Developed an algorithm in Matlab in a team of 2, to calculate the corner points of an image and then
+
+implemented it in verilog using Quartus II and used FPGA to display the output on a monitor.
+
+Synchronous Interface with BIST
+
+[May 2014]
+
+ Developed a Serial to Parallel FIFO using two way flag model and Synthesized at 100 MHz frequency.
+
+Performed Floor Planning, Place & Route, and Clock Tree Synthesis (CTS) using Cadence Encounter
+
+Spread Spectrum Search Engine
+
+[November 2014]
+
+ Designed to find the frequency and phase of a direct sequence PSK spread spectrum (SS) signal mixed
+
+with several other SS signals below the noise floor. The design block will correlate the ADC samples
+
+to a pseudo random number (PRN) generator.
+
+

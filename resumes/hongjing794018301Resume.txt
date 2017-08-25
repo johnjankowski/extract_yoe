@@ -1,0 +1,159 @@
+JING HONG
+
+1920 Pendio, Irvine, CA 92620
+
+310-429-1306| joyce.honguga@gmail.com
+
+__________________________________________________________________________________________________________________________________
+
+EDUCATION · Master of Arts in Advertising, University of Georgia · Bachelor of Arts in Journalism, Liaoning University
+
+August 2012 - May, 2014 September 2008 - June 2012
+
+INTERNSHIPS & WORK EXPERIENCE
+
+Kelly Blue Book
+
+Irvine, CA
+
+Sr. Digital Analyst
+
+May 2017 ­ present
+
+· Responsible for data-driven web analysis and analytics project management on KBB.com, define, develop and deliver
+
+product reporting and analysis that informs strategic and tactical decision-making related to both Advertisers and consumers
+
+experiences.
+
+· Deliver reporting on key metrics and product release/change metrics in order to optimize site content, functionality and
+
+design, use the data to provide insights to improve and enhance user experience and cross-platform consistency.
+
+· Collaborate with product team to build strategy for testing and optimization, use both bucket testing and Test&Target to
+
+create both A/B test and multivariate tests, monitor and analyze campaign results to determine the successes and failures
+
+while providing insights and recommendations.
+
+· Collaborate with product, engineering, and QA team to ensure accurate tracking and tagging implementation of Google
+
+Analytics and Omniture.
+
+YP.com
+
+Glendale, CA
+
+Consumer Analyst
+
+May 2016 ­ May 2017
+
+· Internal reporting by collecting raw, complex data from Oracle database (SQL), Omniture (Ad Hoc, Report Builder) and
+
+Google Analytics, share stories that make sense to business and technical audiences.
+
+· Identify products opportunities and implement with product managers on all platforms based on data analysis and A/B tests.
+
+· Work as a liaison for product management team, UX team, technical teams by providing relational and accurate data
+
+dashboards and reports to help drive meaningful business decisions.
+
+· Design A/B test and deploy new reports for SEM team with the goal of increasing traffic leads while decreasing cost
+
+· Manage performance of email campaigns to deliver on channel goals by optimizing KPI of open rate, click rate, opt-out rate
+
+and conversion rate, support tests and provide insights and recommendations based on test results.
+
+· Deep dive data analysis from Omniture, Business Object, SQL/Oracle database build Weekly and Monthly Key
+
+Performance Metric Dashboards, provide insights and recommendations to optimize products and projects.
+
+RPA (Rubin Postaer and Associates)
+
+Los Angeles, CA
+
+Website Analyst
+
+March 2015 ­ April 2016
+
+· Implemented, validated & troubleshooted tagging specifications (debug tools: Chrome Developer Tools, HttpFox, Charles)
+
+· Campaign reporting and presentations for clients utilizing data on Google Analytics and Omniture (Ad Hoc, Report Builder)
+
+· Leveraged data to gain insight into trending, user experience and behavior in order to drive the appropriate web marketing
+
+strategy; assisted with Account, UX departments on data requests and analysis.
+
+· Measured site usability/effectiveness and provide actionable insights and recommendations based on data results and best
+
+practices,
+
+· Devise and manage A/B tests of SEM and Email to optimize website traffic, conversion funnel, and prospect/consumer user
+
+experiences across devices and applications.
+
+Client: Honda, Honda Dealer Association, La-z-boy, Farmers Insurance, ampm, ARCO
+
+Apartments.com (Powered by Costar)
+
+Chicago, IL
+
+Digital Marketing Analyst (Contractor)
+
+November 2014 ­ February 2015
+
+· Cleansed, organized and managed extensive dataset in Omniture and comScore through Microsoft Power BI system,
+
+· Established monthly dashboards and presented the monthly leads and visits summary of each channel to executive board in
+
+Headquarter, writing monthly and quarterly competitive reports.
+
+· Organized data from all media vendors by using SQL and manipulated data by generating weekly and montly reports,
+
+delivered data dashboards to support email marketing and marketing communication campaigns.
+
+· Assist the Business Intelligence Department to develop the Google Analytics Accounts and installed tags through Google
+
+Tag Manager for the new website.
+
+Dreams For Kids
+
+Chicago, IL
+
+Social Media Intern
+
+August 2014 ­ November 2014
+
+· Social media management through Google Analytics and Hootsuite, generated typical profiles of target audiences.
+
+· Observing industry trends, designing social media campaigns based on Google Analytics Database.
+
+· Refined SEO strategy to increase keywords ranking and produce high-level keyword analysis while tracking, managing and
+
+distributing organic traffic and ranking reports.
+
+Machinery Marketing International
+
+Chicago, IL
+
+Marketing Research Intern
+
+August 2014 ­ November 2014
+
+· Generated monthly marketing report by analyzing data on Hubspot and Google Analytics.
+
+· Identified multiple online traffic sauces and evaluate each performance by Google analytics, tracking data and made up
+
+weekly dashboards.
+
+· Observing industry trends, designing social media campaigns, managed all email campaign via HubSpot on behalf of the
+
+online marketing, content marketing, events/PR, sales, customer success, and product operation teams.
+
+· Refined SEO strategy to increase keywords ranking and produced high-level keywords analysis while tracking, managing
+
+and distributing organic traffic and ranking reports.
+
+SKILLS · Language skills: English, Mandarin, Cantonese · Statistic Analysis skills: Quantitative Research, HTML, SQL, Adobe Omniture, Google Analytics, Google Tag Manager, SEO, Google Adwords, HubSpot, Excel(powerBI), Tableau · Tagging and QA skills: Chrome Developer Tools, Firefox HttpFox, Charles (apps tracking) · Third Party Resarch Tools: comScore, Nelson, Simons, Mintel
+
+

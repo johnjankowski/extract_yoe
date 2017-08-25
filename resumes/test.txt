@@ -1,0 +1,90 @@
+Tejashwi Narayana Annavarapu 972-975-0099; tejashwiannavarapu@gmail.com www.linkedin.com/in/tejashwiannavarapu
+
+EDUCATION The University of Texas at Dallas Masters of Sciences in Business Analytics, GPA 3.64
+
+Aug `15 ­ May `17 Dallas, Texas
+
+Indian Institute of Management Executive Program in Business Management
+
+Jan `13 ­ Jan `14 Lucknow, India
+
+University of Delhi Bachelor of Arts (Honors) in English Literature
+
+Jul `07 ­ Jun `10 Delhi, India
+
+TECHNICAL SKILLS
+
+Tools: SAS Enterprise miner, Base SAS, SQL, Tableau, R, Python, ERWin, SAP Business Objects, SAP Hana, Stata, QlikView, Excel (Data analysis, Solver), Google Analytics (certified through April 2018)
+Statistical Modeling: Exploratory Data Analysis, Hypothesis Testing, Statistical Analysis, Multivariate, Regression, Clustering, Time Series Forecasting, Data Visualization
+
+ACADEMIC PROJECTS
+
+Fidelity Investments  Workforce Planning Project
+
+Feb ­ Apr `17
+
+ Analyzed daily transaction data and provided insights that help optimally utilize company resources
+
+ Identified correlation between national events and internal company announcements in day-to-day transactions
+
+Performance Analysis ­ Veterinary Centers of America
+
+Jul ­ Aug `16
+
+ Determined the key factors through which the veterinary hospitals can improve their services using SAS
+
+ Compared the veterinary hospitals whose performance is good with the hospitals that are not doing well
+
+System Design and PM Plan ­ Biometric Authentication Technology
+
+Jan ­ Apr `16
+
+ Constructed user interface design, control objects and sequence diagrams, software design and testing plans for
+
+biometric authentication technology for credit cards
+
+Crime Rate Analysis of Chicago
+
+Aug ­ Dec `15
+
+ Analyzed data using SAS Enterprise Miner to gain insights into factors that supply toward increase in crime rate
+
+ Insights were to help the Police Department with effective monitoring, policing and crime prevention
+
+PROFESSIONAL EXPERIENCE
+
+Ernst & Young LLP
+
+Feb `12 ­ Jul `14
+
+Associate Analyst
+
+Gurgaon, India
+
+ Assisted global teams on key projects to help decide and pursue new business opportunities
+
+ Managed and supported key projects including tracking strategic developments in EY's major accounts
+
+ SPOC for performance excellence initiative  Voice of Customer project; post implementation the response rate
+
+increased from 60% to over 85% for <100hrs projects and 100% response rate for 100hrs+ projects
+
+ Led Director's Cross Reference project, a tool that enables EY's leadership to boost business development
+
+opportunities
+
+ Mentored and trained new hires on projects, research resources and daily activities
+
+Evalueserve
+
+Jul `10 ­ Feb `12
+
+Business Analyst
+
+Gurgaon, India
+
+ Conducted primary research by creating surveys using MMI tool and analyzed the results using Excel
+
+ Involved in project execution, data gathering and analysis of the research projects
+
+

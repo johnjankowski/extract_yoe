@@ -1,0 +1,125 @@
+ALEXANDER C. FAN
+Engineer with: (1) R&D experience at 3 institutions + 1 company (2) three publications and >50 technical presentations (3) formal business development training and practice.
+
+Email: fanalexc@gmail.com
+Cell: 720.315.2318 www.linkedin.com/in/alexcfan
+
+UNIVERSITY OF CALIFORNIA SAN DIEGO M.Eng. Bioengineering (2017) +Certification in entrepreneurship & technology commercialization
+
+UNIVERSITY OF COLORADO BOULDER BS Mechanical Engineering (2014) *Degree completed in 3 years
+
+RELEVANT EXPERIENCEEEEEEE llllllllllllllllllllllllllllllEEEEEEEEEEEEEEEEEEEEEEEEE_______________llllllllllllllllllllllll
+
+Academic strategic consulting project ­ Advanced Microbubble Laboratories LLC
+
+Mar ­ May 2017
+
+· Collaborated with team of engineers to advise medical device startup on marketing strategies.
+
+· Conducted competitive analysis to identify the most lucrative therapeutic areas for market penetration.
+
+Academic operations consulting project ­ Gilead Sciences Inc.
+
+Feb ­ Mar 2017
+
+· Advised Gilead Oceanside's in vitro team on methods to boost specific productivity of antibody process.
+
+· Individually collated and delivered a suite of analytical tools to improve process modeling and optimization.
+
+NSF I-Corps incubator ­ Salama: a bracelet to deter sexual assault in refugee camps
+
+Apr ­ Jun 2017
+
+· Received $5000 in funding after pitching 2nd place UC Health Hack device concept and joining startup boot camp.
+
+· Mentored by industry professionals on customer discovery, value proposition, competitive analysis, and IP.
+
+CU Boulder President's Leadership Institute (PLI) TAship
+
+Jan ­ May 2014
+
+· Recruited by faculty to facilitate weekly recitations and writing workshops for a class of undergraduate
+
+leadership program students, providing constructive feedback on 120 essays and 36 presentations.
+
+RELEVANT COURSEWORK (UCSD Rady School of Management) EEEEEEEEEEEEE _______________llllllllllllllll llllllll
+
+Venture Mechanics: Enterprise Dynamics: Applied Innovation: Systems Engineering:
+
+Business model canvas · Market segment discovery · Revenue models Competitive advantage · Value chain structure · HR management Rational design of organizational structure · Guiding process and technology innovation System life cycles · Risk management · Process decomposition
+
+SCIENTIFIC TRACK RECORDEEEEEEEEEEEEE EEEEEEEE EEEEEEEEEEEEEEEEE_______________llllllllllllllllllllllll
+
+Tioga Research Inc. ­ R&D intern
+
+Jan ­ May 2017
+
+Goal:
+
+engineer a hardware solution to measure the diffusivity of drugs in mucus.
+
+Outcome: designed, fabricated, and validated a mucosal diffusion cell with outstanding reproducibility and ease of use.
+
+Highlights: applied extensive math modeling, liaised with custom fabrication suppliers, company is currently scaling tech.
+
+Optogenetics and Transgenic Technology Core at The NIH ­ $28K IRP fellowship
+
+Jun 2015 ­ Jun 2016
+
+Goal:
+
+deliver transgenes to the rat brain non-invasively using focused ultrasound.
+
+Outcome: developed novel protocol for blood brain barrier disruption and achieved robust neuronal transfection.
+
+Highlights: learned and applied a dozen new lab techniques, logged >400h in BSL3 facility, published (2nd author).
+
+Leung Lab at Johns Hopkins Dept. of Biochemistry and Molecular Biology
+
+May ­ Aug 2014 & Jan ­ May 2015
+
+Goal:
+
+develop protocol to induce and control the phase change of ALS-associated proteins.
+
+Outcome: developed a high-throughput procedure for the generation of ALS protein hydrogel droplets.
+
+Highlights: supervised 2-month rotation project for an incoming PhD candidate, published (1st author).
+
+Borden Research Lab at CU Boulder Dept. of Mechanical Engineering
+
+May 2012 ­ Dec 2014
+
+Goal:
+
+optimize lipid microbubble-mediated drug delivery to breast cancer cells in vitro
+
+Outcome: achieved the highest molecular uptake efficiency reported in the literature for microbubble-mediated delivery.
+
+Highlights: awarded $2000 grant for study, awarded $800 to present results at BMES 2013, published (2nd author).
+
+ANALYTICS SKILLSET EEEE
+
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE EEEEEEEElllllllllllllllllllllllllllllllllllllllll
+
+Statistics
+
+ANOVA
+
+Worst case error
+
+T-tests
+
+Statistical error
+
+Chi-squared tests
+
+Monte Carlo analysis
+
+Regression analysis Sensitivity analysis
+
+Optimization Line search Penalty functions Simplex search Gradient descent
+
+Machine Learning Statistical anomaly detection Backpropagation for neural network learning SVM and K-means algorithms for classification Collaborative filtering, low-rank matrix factorization
+
+

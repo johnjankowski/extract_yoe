@@ -1,0 +1,175 @@
+Vidyavisal Mangipudi
+vm2421@columbia.edu (518) 618-5060
+
+EDUCATION
+
+Columbia University New York, NY
+
+M.S. in Mechanical Engineering
+
+Graduated: February
+
+2016 Rensselaer Polytechnic Institute (RPI), Troy NY B.S. in Mechanical Engineering 2013
+
+Graduated: May
+
+COMPETENCIES & CAPABILITIES
+
+ R, Python, OBIEE, Tableau, Matlab, C++, SQL, PL-SQL, Microsoft Office, ROS  Competencies currently under development: Machine Learning, Supervised/Unsupervised Learning, Data Mining,
+Big Data, Map Reduce, Collaborative Filtering  Highly driven and motivated to deliver above par results with a vociferous curiosity and desire to learn.
+
+RELEVANT EXPERIENCE
+
+Sourcemantra Inc.
+
+Mahwah, New Jersey
+
+Business Analyst
+
+at UPS
+
+March 2016 -
+
+Present
+
+ Led the effort and learned different BI tools to build dimensional data models, key subject areas, dimensions,
+
+hierarchies, attributes and measures for financial, supply chain and HR reports in Power BI, OBIEE and OBIA.
+
+ Worked with several Senior level managers in different global teams to determine feasibility, correctness of end-
+
+user's requirements and developed functional design documents for reporting and analysis projects.
+
+ Consistently engaging and communicating with development teams, data modelling teams and clients.
+
+ Responsible for delivering the design and development of interactive business operational reports, KPI
+
+dashboards, and automated agents more than a month in advance.
+
+Karetech Medical Devices
+
+New York, New
+
+York
+
+Design Engineer, iHP Robotic Bariatric Bed
+
+April 2015­ February
+
+2016
+
+ Designed the first and second iterations of the functional prototype that went into production.
+
+ Effectively coordinated with vendors and investors to build relationships and secure contracts for equipment
+
+required.
+
+ Performed extensive cost analysis and material optimization to reduce cost of POC and prototyping by 40%.
+
+ Was the point man for the CEO and helped secure a $1 Million investment for early stage development.
+
+Predictive Analytics of the Global Terrorism Database
+
+, Columbia University
+
+New York,
+
+New York
+
+Student Research at The Data Science Institute, Columbia University
+
+January 2015­ May
+
+2015
+
+ Performed Exploratory Data Analysis and Data Cleaning on the Global Terrorism Database and implemented
+
+regression and classification techniques to determine most relevant features in a huge data set.
+
+ Developed Logistic regression for binary classifiers and achieved a 96% accuracy in the confusion matrix
+
+(AUC=0.87)
+
+Openstream Inc.
+
+Somerset, New
+
+Jersey
+
+Technical Associate
+
+June 2013­ July
+
+2014
+
+ Led a team of 3 for the Development of a medical assistant which resulted in a published paper in the ICMI
+
+journal.
+
+ Performed market analysis and built use-cases and a profile around the product for the product development team.
+
+The CME Group
+
+Chicago,
+
+Illinois
+
+Trading and Business Systems Intern
+
+June ­ August
+
+2012
+
+ Worked with traders and BAs to automate business logic with match engine development divisions.  Gained knowledge in the Commodities Futures and Options trading and comfortable reading financial documents.
+
+OTHER EXPERIENCE
+
+Baxter Robot Motion Planning
+
+, Columbia University
+
+New York,
+
+New York
+
+Student Research Project
+
+August 2014­
+
+May 2015
+
+ Performed motion planning and trajectory execution to avoid obstacles on the Baxter robot and reach the
+
+destination.
+
+ Successfully implemented multiple algorithms which resulted in the robotic arm reaching the goal in the fastest
+
+time.
+
+Resident Director and Resident Assistant, RPI
+
+Troy, New
+
+York
+
+ Supervised six RAs and accountable for 225 residents while managing a $3500 budget. August 2011- May
+
+2013
+
+Advanced Manufacturing Lab Project, RPI
+
+Troy, New
+
+York
+
+Project Manager
+
+August 2012 -
+
+May 2013
+
+ Gained leadership knowledge and experience while being responsible for personnel management, project plans
+
+and schedule, coordinating with third party vendors and making final decisions with a $3,000 budget.
+
+

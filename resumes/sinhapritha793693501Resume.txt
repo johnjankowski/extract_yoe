@@ -1,0 +1,49 @@
+PRITHA SINHA
+1 River Ct Apt 205 | Jersey City, NJ 07310 (917) 605-1302 | psinha@fordham.edu www.linkedin.com/in/sinhapritha
+
+PROFESSIONAL EXPERIENCE
+
+CONSOLIDATED EDISON, INC. Senior Specialist, Data Analytics, Energy Efficiency & Demand Management
+
+New York, NY Oct 2016 ­ Present
+
+· Work directly for the head of customer-centric market research and analytics team to support energy efficiency and demand management (EEDM) initiatives, energy forecasting, and customer insight needs
+· Lead the development of predictive models in Analytica to forecast energy and demand savings for all EEDM programs that are incorporated into the company's planning for future capital and revenue needs
+· Collaborate closely with program managers to perform statistical analysis, segmentation modeling and dashboard visualization in order to improve energy efficiency, and increase program participation
+· Support the marketing department in customer segmentation, customer targeting and product positioning for EEDM programs by performing data mining and visualizations using Python, R, SQL and Tableau
+
+NYC DEPARTMENT OF DESIGN AND CONSTRUCTION (DDC)
+
+Long Island City, NY
+
+Summer Intern, Data Analytics, Project Controls Group
+
+Jun 2016 ­ Aug 2016
+
+· Performed data analytics and data visualization on project cost, schedule and data quality metrics and executed strategy to improve project management, cost estimating and forecasting
+· Planned and managed project cost, schedules, cost reports and estimates by analyzing variances between plan and actual progress in cost and schedule using Python, R, SQL and Qlikview
+
+WELLS FARGO
+
+HYDERABAD, INDIA
+
+Senior Analyst, Customer Analytics, Customer Deposits & Operations
+
+Aug 2010 ­ Mar 2014
+
+· Led the development of mainframe computer applications and programs and acted as the Business Systems Consultant within the Plastic Issuance team that issues and maintains ATM and Debit cards
+· Implemented a critical customer analytics project using data mining and data warehousing tools (DB2 and Infosphere) to ensure data integrity, validity and consistency for over 2.5MM debit/credit cards in the US
+· Designed and successfully implemented the very first `Easytrieve' program that defined the fraud prevention and theft protection strategies, impacting over 150,000 Wells Fargo customers in the US
+
+EDUCATION
+FORDHAM UNIVERSITY, GABELLI SCHOOL OF BUSINESS Master of Science in Business Analytics (MSBA), GPA 3.96
+MANIPAL UNIVERSITY, SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY Bachelor of Technology (B.Tech) in Information Technology (IT), GPA 3.30
+
+New York, NY Sep 2015 ­ Aug 2016
+Sikkim, India Jul 2006 ­ Jun 2010
+
+PERSONAL
+· Academic Award: "Center for Digital Transformation Fellowship Award" (5/16) [Fordham University] · Professional Award: "Shared Success Award" (1/14); "Achieving Excellence Award" (7/12) [Wells Fargo] · Winner (1st Place), "March Data Crunch Madness" (MDCM) Challenge 2016, Fordham University · VP of Events, Fordham Business Analytics Society (FBAS), Fordham University · Languages: Python, R, SAS, SQL, C/C++, JAVA, HTML, COBOL, COBOL DB2 · Tools: Analytica, Tableau, TIBCO Spotfire, Alteryx, QlikView, MongoDB, Google Analytics, Google
+AdWords, Google BigQuery, IBM SPSS Modeler, IBM Cognos, IBM Watson Analytics, Infosphere Data Architect, Infosphere Data Studio, Bluemix, WEKA, Semantria, Wordpress, MS Excel, MS Powerpoint
+
+

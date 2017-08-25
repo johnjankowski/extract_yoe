@@ -1,0 +1,40 @@
+shruts4989@gmail.com (682)-597-9277
+
+SHRUTI MADAN
+
+415 Summit Avenue, #315 Arlington, TX 76013
+
+OBJECTIVE: To achieve a leading position in the field of Computer & Information Technology and to develop my skills along with contributing to the growth of the organization
+
+EDUCATION: UNIVERSITY OF TEXAS AT ARLINGTON Master of Science ­ Computer Science & Engineering
+UNIVERSITY OF MUMBAI, INDIA Bachelor of Engineering ­ Information Technology Engineering
+
+MAY 2017 MAY 2011
+
+SKILLS: Programming: Java, MATLAB, HTML, Python, Android, Junit, JSP, SQL Tools: Robotics Toolbox, Android Studio, Eclipse Neon, EGT v2.0, JaCoCo, PPM, MySQL, Serena, ReqPro, SVN, AutoCAD, MS Office, Microsoft Excel Relevant Courses: Graduate: Machine Learning, Design & Analysis of Algorithm, Robotic Vision: Sensors, Localization & Control, Data Mining, Data Analysis and Modeling Techniques, Robotics, Human Computer Interaction, Special Topics in Advanced Software Engineering, Software Testing, Software Engineering, Distributed Systems, Database Systems Undergraduate: Data Structures & Algorithm, Robotics & Machine Intelligence, Computer Simulation & Modelling, Data Mining and Business Intelligence, Software Testing & Quality Assurance, Digital Signal Processing and Image Processing Certification: ISTQB, Information Security Expert - Level A (Indian Institute of Technology, Bombay)
+
+WORK EXPERIENCE:
+
+LARSEN AND TOUBRO INFOTECH Designation: Test Engineer (Software Quality Analyst)
+
+Dec'11 ­ July'15
+
+Role and contribution: Worked as a test engineer - lead, responsible for test case writing, reviews & execution, status reporting, driving status call with the client, logging defects in PPM and Serena, creating test evidences for re-tested defects, requirement analysis, preparing test strategy, test plan and test case documents, major implementations/projects, for multiple client Policy Decision applications ­under Commercial Lines Production.
+
+UNIVERSITY OF TEXAS AT ARLINGTON Designation: Student Employee Role and Contribution: Working at UTA Dining Services; Connection Café
+
+Aug'16 ­ Sept'16
+
+ACADEMIC PROJECTS: (May 2011 : Undergraduate) Hand Gesture & Voice Recognition Adapting computers to our natural means of communication (speech and body language). Operated the OS and other applications through hand gesture recognition along with voice recognition, using bare hands, voice (speech) and speaker, to ease any user to use it in their office or home
+
+(Fall 2015 ­ Spring 2017 : Graduate) Human Limping diagnosis using Kinect Enhancing the classification methodology of the existing fall prediction system, by incorporating several new features and utilizing an ensemble of KNN classifiers, which, when passed through an iterative weighted adjusting voting system, helps in getting better classification. The system was tested for
+
+different walking pattern scenarios and proved robust enough to get the fall-prediction as well as highlighted the leg that has problem.
+Detection of Malignancy using Supervised and Semi-supervised Machine Learning Algorithm Detect malignancy in tumors/cells based on various features of the cell nuclei such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, fractional dimension, etc. The classification was done based on supervised (Logistic Regression) and semi-supervised (Self training & Cotraining) machine learning algorithms. The accuracies were analyzed by making a comparison based on the output obtained with the expected results.
+Omnidirectional Robot for Warehouse Automation Created simulations for getting desired inventory item to be dispatched, directly from the shelf with the help of a Robotic Arm (with a QR scan fixed on it) mounted on omnidirectional robots, in a warehouse.
+MavAdvising Created an Android application for UTA's Advising sessions to ease advising enrollment & approval easy for students & advisors, respectively. Android Studio was used for creating the application & data was stored using MySQL database.
+I-Pay Created a payment system using iris recognition technology, to avoid having to carry around credit/debit cards or risk forgetting or losing them. Created our own Iris scanning device using RPi; used MATLAB for capturing images and extracting iris templates from RPi; Python for implementing scanning component and FTP server setup was done in order to integrate modules on different devices. The UI design was done using .Net. We made our own scanning device using 3D printing, designing the device structure using AutoCad.
+EXTRA CURRICULAR:
+ Indian Classical Music (Vocal) ­ Bachelor's degree: Gandharva Mahavidyala, Mumbai.  First runner up in State level ­ Basketball.  Best student award at BVCOE, Mumbai University.  Active member of Fine Arts Society & Indian Cultural Council's music team - UTA.
+
+

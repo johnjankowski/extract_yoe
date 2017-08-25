@@ -1,0 +1,23 @@
+Michael Wojcik
+
+8 Somerset Court, Laguna Niguel, California
+
+Email: mjwojcik99@gmail.com
+
+Home Phone: 949-360-0708
+
+Cell Phone: 858-382-6270
+
+_____________________________________________________________________________
+
+PROFESSIONAL EXPERIENCE Mobis Parts America, Fountain Valley, CA - (3/2013-Current) Senior Analyst · Create Macros in Access, exporting data to Excel for analyzing and reporting purposes. · Prepare monthly transportation costs analysis, and produce revenue reports by distribution center. · Create and maintain Access databases to collect shipping and vendor information for reporting. · Composed several VBA Macro scripts in Excel, cutting down the time on loading vendor data. · Developed individual Access databases to enable multiple users in the database at the same time. · Sent out requests for pricing to compare current vendors versus potential new vendors costing. · Work with third party vendors on data discrepancies and how to best resolve issues that show up. · Held monthly Excel classes gong over using formulas: Vlookup, Sumif, Countif, and PivotTables.
+
+KM Strategic Management, P2S Engineering, Insight Imaging and Kim's Lighting ­ (3/2010-12/2010, 3/2011-6/2011, 9/2011-3/2013­ (Contract Positions)) Financial/Data Analyst · Set up Access databases to collect medical provider information for reporting requirements. · Created SQL Tables and Queries so end users could generate client reports with Crystal. · Designed an innovative fee based template in Excel for client requested calculations. · Built reports in Access utilized by the marketing and sales teams for client presentations. · Enhanced data loads into each providers databases by creating stored procedures to run daily. · Created tables and queries in Access and analyzed data utilizing advanced Excel formulas. · Moved large sets of data from Excel to Access that ended up saving time in the daily processes.
+
+Deutsche Bank, Santa Ana, CA - (1/2006 - 2/2009) Quality Assurance/Data Analyst · Designed and updated database scripts to calculate client requirements on a monthly basis. · Prepared customized client monthly reports requested using Crystal Reports, Excel and SQL. · Developed note valuation reports, portfolio tests, conveying results with clients on a weekly basis. · Researched and resolved internal and external questions using, Access, Excel and CDO Suite. · Compared prior, current, and projected year financial data utilizing Excel on a monthly basis. · Researched and developed spreadsheets that calculated investment figures for the company. · Wrote VBA scripts in Access and Excel for efficient reporting to the sales and marketing teams.
+
+Nicholas/Applegate, San Diego, CA - (7/2000 - 1/2006) Performance Analyst II · Formulated analytical calculations for clients - dispersion, value of a dollar, and risk return analysis. · Calculated, researched, updated and distributed performance figures within the firm on a daily basis. · Produced presentations for sales, RFP's, highlighting the companies' performance statistics. · Calculated and reported yearly asset-weighted composite dispersion numbers to the portfolio managers. · Reported statistical calculations, such as standard deviation, beta, alpha, and r-squared on data. · Established risk return charts for the companies' composites versus their respective indices.
+
+EDUCATION California State University, Fullerton - B.A. Mathematics - Statistics Specialization SKILLS AND PROGRAMS Access, Excel, SQL, Word, Outlook, Crystal Reports, Power Point, Bloomberg, Cognos, and SAS.
+
+

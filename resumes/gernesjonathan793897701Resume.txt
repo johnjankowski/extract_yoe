@@ -1,0 +1,81 @@
+Jonathan Gernes
+
+jgernes@uci.edu | 661-858-8510 | www.linkedin.com/in/jonathangernes
+
+Education
+
+University of California, Irvine GPA: 3.98
+
+June 2017
+
+· M.A. in Demographic and Social Analysis with coursework in the social sciences and statistics
+
+University of California, Los Angeles GPA: 3.65 · B.A. with Departmental Honors in Sociology and an emphasis in statistics
+
+June 2016
+
+University College Cork GPA: 3.95 · Studied in Cork, Ireland for one semester to develop and practice sociological methods
+
+Fall 2015
+
+Experience
+
+Management Intern, City of Santa Ana
+
+Nov. 2016 ­ June 2017
+
+· Collected and maintained data via Excel for entire Planning and Building Agency (70+ employees)
+
+· Contributed city and county wide overcrowding demographics for $700,000+ CDBG request
+
+· Oversaw and worked with management on department budget, contracts, citation records, etc.
+
+Research Assistant, Department of Sociology
+
+April 2014 ­ June 2015
+
+· Collected, input, and cleaned data garnered from thousands of newspaper articles
+
+· Operated under a weekly deadline and developed excellent time management skills
+
+Sociology Honors Program, Department of Sociology
+
+April 2014 ­ June 2015
+
+· Selected from a competitive pool of applicants to complete an original research project and written
+
+thesis under a faculty advisor
+
+Skills
+Statistical Programming Software · Practiced in using R and Stata 14 for cleaning, and analysis of uploaded or created data
+GIS (Geographic Information System) · Experienced with fundamental operations in ArcMap to map and interpret geocoded data
+Microsoft Office · Adept with using Excel, Word, and PowerPoint for budgets, write-ups, presentations, etc.
+Adobe Editing Software · Proficient in editing photographs and creating content using Lightroom and Photoshop
+
+Projects
+
+Voter Demographic Analysis
+
+Nov. 2016 ­ June 2017
+
+· Analyzed the proportion of registered and active Hispanic voters across state lines and explored
+
+possibly correlated regional, and demographic factors
+
+Predicting Animal Outcomes in LA Shelters
+
+April 2016 ­ June 2016
+
+· Collaborated with several classmates to create a predictive model on adoption and euthanasian in
+
+animal shelters using R
+
+Ethnographic Study on a UCLA Political Club
+
+Sep. 2014 ­ June 2015
+
+· Conducted an observational study on the interactions and characterizations of the Bruin Republicans
+
+student organization
+
+

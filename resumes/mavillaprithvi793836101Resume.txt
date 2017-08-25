@@ -1,0 +1,79 @@
+Prithvi Mavilla
+ Phone: 408-203-0350  mavillapooja@gmail.com
+
+Software Quality/Dev Engineer with excellent communication, collaborative skills and thorough experience of enterprise-level resource management software. I have strong knowledge in EMC ViPR, SAN and NAS Storage. I have over 8 years of work experience in the IT industry.
+Hands on experience on: VMAX, VNX, VPLEX, RP, XIO, Isilon, NetApp, Data Domain, VNX File
+PROFESSIONAL WORK EXPERIENCE
+
+EMC CORPORATION ROLE: Senior Software Engineer - QE
+
+Feb `13- Present
+
+EMC ViPR Controller is storage automation software that centralizes and transforms storage into a simple, extensible and open platform. It abstracts and pools resources to deliver automated, policy-driven storage services on demand via a self-service catalog. With vendor neutral centralized storage management, your team can reduce costs, providing choice and delivering a path to the cloud. EMC ViPR controller provides a single, automated way to provision and deliver storage resources by abstracting physical storage resources from heterogeneous arrays into a single virtual pool.
+
+Works with EMC products: VMAX, VNX, VNXe3200, VPLEX, Isilon, Recover Point, ViPR SRM, XtremeIO, ScaleIO, Data Domain and VCE vblock Systems.
+
+Integrates with third-party storage: Dell, Hitachi Data Systems, HP, IBM, NetApp, and Oracle
+
+Responsibilities:  Responsible for defining system tests and test plans based on requirements and technical specification.  Influenced other SQE's toward the style of iterative test automation and development.  Used Internal test framework to write and exercise automation following the automation SDLC for all automation produced.  Responsible for improving product testability and designing for test.  Served as the team lead for several functional or system areas. Responsible for the execution of team and individual test plans on schedule.  Debugged and analyzed test results to verify functionality and recommend corrective action in the case of failure.  Isolated, reproduced and tracked bugs and verified bug fixes.  Wrote test automation in Java.  Maintained tests and code in source control - Git  Owned features and completed all aspects of the QA process on those areas-system integration and product certification.  Worked closely with developers on defect resolution.  Fully competent in design, implementation and maintenance of test environment including necessary equipment, configuration and software.  Provided solutions for a wide range of complex problems.  Independently determined and developed approach to solutions, under limited direction.  Built and maintained testing tools, website and wiki.
+
+Environment: Java, Restful APIs, Git, Maven, Jenkins, TestLink, symcli, Unisphere, Linux, Cisco and Brocade switches, TCP/IP,JIRA
+
+APPLE INC, Cupertino, CA ROLE: QA Lead Project: QuantumDB
+
+Mar `12- Feb '13
+
+Having a single data center is considered a single point of failure and is a business risk. This led to the construction of a disaster recovery (DR) infrastructure where a second environment is created to take over in case of a site failure at the primary data center.
+
+Apple's business has grown. The number of people using Apple devices has increased because of mobile devices like the iPhone and the iPad. The software products responsible for distributing content (iTunes) and for data syncing (MobileMe/iCloud) have expanded to serve the bigger customer base and now span multiple Data Centers (DC).
+
+Responsibilities:  Associated with the full life cycle of the application.  Involved in the design meetings and requirements analysis meetings with the team and external members.  Responsible for the test plans reviewing and oversee the whole QA process.  Performed UI automation using selenium.  Solely responsible for certifying the builds and the build process  Performed code reviews using crucible.  Developed a java test suite to run nightly database back up jobs  Recreated the issues faced by external teams using the application with different architecture and framework.  Mentored and trained the newly joined on the team  Worked extensively on Unix and Virtual Machines.  Handled both offshore and onsite teams.  Participated in daily scrums and identified the risks
+
+Environment: Java, junits, Maven, J2EE, SQL, Selenium, Radars, putty, Jmeter, JMX, Netty, Jconsole Mac OS, Java 7, JDBC, Spring, collection Framework, Jboss 4, Eclipse 3.0, Clobs and Blobs, Hibernate
+
+EMC CORPORATION, Hopkinton, MA ROLE: Co-op Project: PROSPHERE
+
+Feb `11-Dec'11
+
+EMC ProSphere is storage Management application that enables the customer to attain end-to-end view of their physical and virtual infrastructure and manage data irrespective of where it resides. It is architected to keep pace with the rate of technology change, and is easy to deploy and manage. The ProSphere Performance module will monitor storage performance across the virtual infrastructure. Threshold alerts will aid in proactive identification of performance issues to maintain service levels. ProSphere lowers the cost of ownership of your storage management application. Agent-less discovery eliminates the burden of deploying and managing host agents. ProSphere is fast and easy to deploy.
+
+Responsibilities:  Associated with the full life cycle of the application.
+
+ Complete Life cycle of the application, analysis and design of the system architecture Complete Testing  Involving designing, developing and configuring Front-end/Server side J2EE components like MVC Frame
+Work, EJB, Java Beans, Java, J2EE, XML, Collection Framework, Java Script, JSP, Servlets, JDBC, JNDI and deployments in JBoss .  Involved in designing and developing Front-end/UI screens and validations using JAVA scripts and Struts forms.  Used J2EE to perform data validation against rest feeds, data feeds and database  Refactored java code to improve automation execution time by 85%  Developed a java test suite to run nightly database back up jobs  Owned up a major java module of the automation suite to remove frequent false failures. Stabilized the tests by handling all the exception scenarios  Developed RIA scripts to validate UIs  Deployed application on various environments and ran the test suites against them  Used Clear Quest to raise and track bugs in the database  Participated in daily scrums. Updated Version1 daily with progress  Mentored and trained new full time engineers and coops on the application  Studied cloud computing mechanism for literature review
+Environment: Java, Java Script, J2EE, SQL, RIA, IntelliJ, ClearQuest, Winscp, putty, Neoload, Windows, Java 2.0, JDBC, JSP, Struts, servlets, EJB 1.1, HTML, collection Framework, Jboss 4, Eclipse 3.0, Hibernate
+
+Satyam Computer Services Client: BSNL, INDIA Role: Team Lead Project: IOBAS
+
+May '07 ­ Jun `09
+
+BSNL is the largest telecom services provider in India. Inter-Operator billing and Accounting System (IOBAS) is used to generate Invoices for different OLO's (Other Licensed Operators) across 16 circles in India
+
+Responsibilities:  Developed a web portal using J2EE to provide the user interface for the client to perform all the operational and billing activities  Led a team of 20 and accomplished the day to day operations in the project  Supervised the reconciliation of the complete data to avoid discrepancies in current billing system  Involved in developing and modifying the GUI screens using HTML, JSP and CSS  Developed web tier component Action servlet classes and Action form Bean classes using the struts framework  Developed Java Script Validations  Developed JSP to dynamically generate HTML and display the data to the client side  Changes in the current system configuration as per the new Business requirement  Involved in the development of triggers and stored procedures using PL/SQL backend implementation using Oracle Database
+
+Environment: Java, Toad, UNIX, Jsp, CSS
+
+Satyam Computer Services, Reuters, UK Role: Software Engineer Project: NGTX-TOPS
+
+Dec '05 ­ May `07
+
+The next generation transaction products (NGTX) are the key focus areas for Reuter's long-term evolution. It is proposed that the future of customer on boarding and trade relationship request/approval processes for NGTX products (RTFI, RTFX, RTEX, RTNS & CME) will be based on client self administration due to the projected growth of the customer base..
+Responsibilities:  Co-Led the project right from the requirements gathering, design, implementation and system testing  Developed the code for Dashboard, Relationship Request, GTI, Manage Map codes and Reports module using Spring and Hibernate.  Coordinated and supported the other modules in various coding and validations  Performed Unit testing, Integration testing, performance testing and usability testing  Involved in developing of reusable components/module.  Communicating with Business Analyst and providing better solution for new development and enhancement.  Extensively used Spring IOC and Dependency Injection across different components of application  Used Hibernate for Data Access Layer.  OO Analysis and Design using UML diagrams. Design of Class, sequence and state diagrams using MS Visio.
+
+Environment: Java, Toad, Spring, Hibernate, VSS, Eclipse
+
+EDUCATION
+
+ Master of Business Administration, BRANDEIS INTERNATIONAL BUSINESS SCHOOL Waltham, MA Major: International Business l Graduated with 3.8/4.0 GPA | Recipient of Global Leadership Award| Leadership Fellow
+ Bachelor of Engineering in Computer Science from JNT University ­ Hyderabad- 2005
+
+AWARDS
+
+ Received Silver Award of Excellence for leading the efforts on File Validation for ViPR 2.2  Recognized with R&R awards for outstanding performance at EMC  Ranked 1st among 250 trainees in the Entry Level Training Program  Received award for an excellent performance and dedication at Satyam Computers
+TECHNICAL SKILLS
+
+Language J2EE Technologies Database Application Server Framework Version Control
+
+Java, C/C++, JavaScript, HTML, XML, EJB, JDBC, Struts, Spring SQL Server 2000, Oracle 9i, SQL Developer Tomcat, Maven Net Beans, IntelliJ, Eclipse SVN, CVS, Git
+
+
