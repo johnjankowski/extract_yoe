@@ -158,12 +158,12 @@ def gen_resume():
 	my_degrees = random.sample(degrees, 2)
 	#job_tools = [tools_and_tech.loc[tools_and_tech['Title'] == job]['T2 Example'].values.tolist() for job in jobs]
 	job_tasks = [task_des.loc[task_des['Title'] == job]['Task'].values.tolist() for job in jobs]
-	phone = str(random.randint(100, 999)) + '-' + str(random.randint(100, 999)) + '-' + str(random.randint(1000, 9999))
-	email = str(random.randint(10000, 99999)) + '@example.com'
+	# phone = str(random.randint(100, 999)) + '-' + str(random.randint(100, 999)) + '-' + str(random.randint(1000, 9999))
+	# email = str(random.randint(10000, 99999)) + '@example.com'
 	resume = []
 	labels = []
-	resume += [[phone + ';', email], ['EDUCATION'], ['EXPERIENCE'], ['SUMMARY'], ['OBJECTIVE'], ['INTERESTS']]
-	labels += [['o', 'o'], ['o'], ['o'], ['o'], ['o'], ['o'] ]
+	resume += [['education'], ['experience'], ['summary'], ['objective'], ['interests']]
+	labels += [['o'], ['o'], ['o'], ['o'], ['o'] ]
 	for i in range(2):
 		date = gen_date()
 		resume += [unis[i].split(), date]
