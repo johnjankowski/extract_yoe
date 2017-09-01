@@ -328,9 +328,12 @@ def write_rf_predictions(directory):
 """
 Extracting Functions
 """
-def write_bootstrap_predictions(directory):
+def write_bootstrap_predictions(directory, load_old_bootstrapping):
     new_data = []
     new_labels = []
+    if load_old_bootstrapping:
+        new_data = pickle.load(open('new_text.p', 'rb'))
+        new_labels = pickle.load(open('new_labels.p', 'rb'))
     for f in os.listdir(directory):
         if '.txt' in f:
             filename = directory + '/' + f
@@ -416,14 +419,16 @@ Bootstrapping Script
 """
 if len(sys.argv) >= 2:
     X_train, y_train = get_data_and_labels()
-    if len(sys.argv) >= 3:
+    load_old_bootstrapping = False
+    if len(sys.argv) >= 3 and sys.argv[2] == 'use_bootstrap':
         new_X = pickle.load(open('new_text.p', 'rb'))
         new_y = pickle.load(open('new_labels.p', 'rb'))
         X_train = X_train + new_X
         y_train = y_train + new_y
-    # train_RF(X_train, y_train)
-    # train_crf(X_train, y_train)
-    write_bootstrap_predictions(sys.argv[1])
+        load_old_bootstrapping = True
+    train_RF(X_train, y_train)
+    train_crf(X_train, y_train)
+    write_bootstrap_predictions(sys.argv[1], load_old_bootstrapping)
 
 
 
