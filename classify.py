@@ -103,9 +103,9 @@ def featurize_word(sent, i):
     postag = sent[i][1]
     features = {
         'bias': 1.0,
-        #'word.lower()': word.lower(),
-        #'last_three_letters': word[-3:],
-        #'last_two_letters': word[-2:],
+        'word.lower()': word.lower(),
+        'last_three_letters': word[-3:],
+        'last_two_letters': word[-2:],
         'is_uppercase': word.isupper(),
         'is_lower': word.islower(),
         'is_title_format': word.istitle(),
@@ -121,15 +121,15 @@ def featurize_word(sent, i):
         'is_city': word in cities,
         'is_school': word in schools,
         'is_state': word in states,
-        'is_month': word.lower() in months,
-        'is_year': word in years,
+        'is_month': ''.join(x for x in word.lower() if x.isalpha()) in months,
+        'is_year': ''.join(x for x in word.lower() if x.isdigit()) in years,
         'contains_/': '/' in word,
     }
     if i > 0:
         word1 = sent[i-1][0]
         postag1 = sent[i-1][1]
         features.update({
-            #'-1:word.lower()': word1.lower(),
+            '-1:word.lower()': word1.lower(),
             '-1:word.istitle()': word1.istitle(),
             '-1:word.isupper()': word1.isupper(),
             '-1:is_lower': word1.islower(),
@@ -145,8 +145,8 @@ def featurize_word(sent, i):
             '-1:is_city': word1 in cities,
             '-1:is_school': word1 in schools,
             '-1:is_state': word1 in states,
-            '-1:is_month': word1.lower() in months,
-            '-1:is_year': word1 in years,
+            '-1:is_month': ''.join(x for x in word1.lower() if x.isalpha()) in months,
+            '-1:is_year': ''.join(x for x in word1.lower() if x.isdigit()) in years,
         })
     else:
         features['BOS'] = True
@@ -155,7 +155,7 @@ def featurize_word(sent, i):
         word1 = sent[i+1][0]
         postag1 = sent[i+1][1]
         features.update({
-            #'+1:word.lower()': word1.lower(),
+            '+1:word.lower()': word1.lower(),
             '+1:word.istitle()': word1.istitle(),
             '+1:word.isupper()': word1.isupper(),
             '+1:is_lower': word1.islower(),
@@ -171,8 +171,8 @@ def featurize_word(sent, i):
             '+1:is_city': word1 in cities,
             '+1:is_school': word1 in schools,
             '+1:is_state': word1 in states,
-            '+1:is_month': word1.lower() in months,
-            '+1:is_year': word1 in years,
+            '+1:is_month': ''.join(x for x in word1.lower() if x.isalpha()) in months,
+            '+1:is_year': ''.join(x for x in word1.lower() if x.isdigit()) in years,
         })
     else:
         features['EOS'] = True
@@ -269,14 +269,17 @@ def write_crf_predictions(directory):
 Random Forest Functions
 """
 
-def train_RF(X_train, y_train):
+def train_RF(X_train, y_train, depth=None):
     X_train = list(chain.from_iterable(X_train))
     y_train = list(chain.from_iterable(y_train))
     dv_X = DictVectorizer(sparse=False)
     lb_y = LabelBinarizer()
     X_train = dv_X.fit_transform(X_train)
     y_train = lb_y.fit_transform(y_train)
-    rf = RandomForestClassifier()
+    if depth != None:
+        rf = RandomForestClassifier(max_depth=depth)
+    else:
+        rf = RandomForestClassifier()
     rf.fit(X_train, y_train)
 
     # for p in rf.feature_importances_:
@@ -291,7 +294,7 @@ def train_RF(X_train, y_train):
 
     with open('lb_y.p', 'w') as f:
         pickle.dump(lb_y, f)
-        
+
 
 def write_rf_predictions(directory):
     for f in os.listdir(directory):
@@ -325,6 +328,54 @@ def write_rf_predictions(directory):
 """
 Extracting Functions
 """
+def write_bootstrap_predictions(directory):
+    new_data = []
+    new_labels = []
+    for f in os.listdir(directory):
+        if '.txt' in f:
+            filename = directory + '/' + f
+            rf = pickle.load(open('rf_model.p', 'rb'))
+            dv_X = pickle.load(open('dv_X.p', 'rb'))
+            lb_y = pickle.load(open('lb_y.p', 'rb'))
+            tagged_text = tokenize(filename)
+            resume_text = dv_X.transform(list(chain.from_iterable([featurize_sent(s) for s in tagged_text])))
+            rf_preds = lb_y.inverse_transform(rf.predict(resume_text))
+            crf = pickle.load(open('crf_model.p', 'rb'))
+            resume_text = [featurize_sent(s) for s in tagged_text]
+            crf_preds = list(chain.from_iterable(crf.predict(resume_text)))
+            f = open(filename, 'rb')
+            text = ''.join(i for i in f.read() if ord(i)<128)
+            text_lines = [i for i in text.split('\n') if i != '']
+            print('****************************')
+            print('******** NEW RESUME ********')
+            print('****************************')
+            print('\n')
+            print('FILENAME = ' + filename)
+            print('\n')
+            counter = 0
+            for i in range(len(text_lines)):
+                cur_line_preds = []
+                cur_line_words = []
+                cur_line_labels = []
+                for word in text_lines[i].split():
+                    if rf_preds[counter] == crf_preds[counter]:
+                        cur_line_preds += [rf_preds[counter]]
+                        cur_line_labels += [rf_preds[counter]]
+                        cur_line_words += [list(chain.from_iterable(resume_text))[counter]]
+                    else:
+                        cur_line_preds += ['-']
+                    counter += 1
+                new_data += [cur_line_words]
+                new_labels += [cur_line_labels]
+                print(text_lines[i] + ' | ' + ' '.join(cur_line_preds))
+            print('\n')
+            print('\n')
+
+    with open('new_text.p', 'w') as f:
+        pickle.dump(new_data, f)
+
+    with open('new_labels.p', 'w') as f:
+      pickle.dump(new_labels, f)
 
 
 def locate_dates(text, labels):
@@ -355,9 +406,24 @@ uncomment all lines to run and print predictions
 """
 
 # X_train, y_train = get_data_and_labels()
-# train_RF(X_train, y_train)
-# if len(sys.argv) >= 2:
-#     write_rf_predictions(sys.argv[1])
+# train_RF(X_train, y_train, 2)
+#if len(sys.argv) >= 2:
+    #write_rf_predictions(sys.argv[1])
+    
+
+"""
+Bootstrapping Script
+"""
+if len(sys.argv) >= 2:
+    X_train, y_train = get_data_and_labels()
+    if len(sys.argv) >= 3:
+        new_X = pickle.load(open('new_text.p', 'rb'))
+        new_y = pickle.load(open('new_labels.p', 'rb'))
+        X_train = X_train + new_X
+        y_train = y_train + new_y
+    # train_RF(X_train, y_train)
+    # train_crf(X_train, y_train)
+    write_bootstrap_predictions(sys.argv[1])
 
 
 

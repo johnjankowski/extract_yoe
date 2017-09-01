@@ -62,15 +62,17 @@ initials = ['A.', 'B', 'C.', 'D', 'E.', 'F', 'G.', 'H', 'I.', 'J', 'K.', 'L', 'M
 
 def gen_date():
 	seed = random.random()
-	if seed >= .83:
+	if seed >= .84:
+		return [random.choice(years) + '-' + random.choice(years)]
+	elif seed >= .70:
 		return [random.choice(months), random.choice(years), '-', random.choice(['Current', 'Present'])]
-	elif seed >= .66:
+	elif seed >= .56:
 		return ['(' + random.choice(months), random.choice(years) + '-' + random.choice(months), random.choice(years) + ')']
-	elif seed >= .49:
+	elif seed >= .42:
 		return ['(' + random.choice(months), random.choice(years), '-', random.choice(months), random.choice(years) + ')']
-	elif seed >= .33:
+	elif seed >= .28:
 		return [random.choice(months), random.choice(years), '-', random.choice(months), random.choice(years)]
-	elif seed >= .16:
+	elif seed >= .14:
 		return [random.choice(abr_months), random.choice(abr_years), '-', random.choice(abr_months), random.choice(abr_years)]
 	else:
 		return [random.choice(dig_months) + '/' + random.choice(years) + 'to' + random.choice(dig_months) + '/' + random.choice(years)]
